@@ -1,3 +1,8 @@
+#### Name: Himaja
+- Place: Hindupur, India
+- Bio: Former SDE intern @Amazon, GDSC Lead '22
+- Github: [Naga-Himaja](https://github.com/Naga-Himaja)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
